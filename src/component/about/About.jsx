@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import My_Resume from "./My_CV.pdf"
+import My_Resume from "./CV.pdf"
 import My_Img from './My_img.jpg'
 const About = () => {
   return (
