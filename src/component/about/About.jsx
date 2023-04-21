@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import My_Resume from "./CV.pdf"
+import My_Resume from "./UpdateCv.pdf"
 import My_Img from './My_img.jpg'
 const About = () => {
   return (
@@ -33,7 +33,7 @@ const About = () => {
               <small>Online 24/7</small>
             </article>
           </div>
-          <p>I am a Front-End Developer. I'm very passionate and dedicated to mywork. I am consider my self aresponsible and Orderly persion. Iam looking forward for my first workexperience</p>
+          <p>I am a Front-End Developer. I'm very passionate and dedicated to mywork. I am consider my self a responsible and Orderly persion. I am looking forward for my first work experience</p>
            <a  className="btn btn-primary" download="" href={My_Resume}>Download CV
                 <svg
                       className="button__icon"
