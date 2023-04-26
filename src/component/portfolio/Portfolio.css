@@ -3,6 +3,12 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 2.5rem;
 }
+.container_port{
+   width: 75%;
+   max-height: 800px;
+   margin: 0 auto;
+   overflow-y: scroll;
+}
 .portfolio__item{
     background: var(--color-bg-variant);
     padding: 1.2rem;

@@ -44,6 +44,13 @@ import'./Portfolio.css'
             github:"https://github.com/coder-ismile/ChatApp",
             demo:"https://react-chat-app-2ee99.web.app"
           },
+          {
+            id:7,
+            image:"./assets/codePenLogo.webp",
+            title:'CodePen Clone',
+            github:"https://github.com/coder-ismile/codePen_clone",
+            demo:"https://coder-ismile.github.io/codePen_clone/"
+          },
 
   ]
 
@@ -52,7 +59,7 @@ const Portfolio = () => {
     <section id="portfolio">
       <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
-      <div className="container portfolio__container">
+      <div className="container_port portfolio__container">
        {
         data.map(({id,image,title,github,demo})=>{
           return(
