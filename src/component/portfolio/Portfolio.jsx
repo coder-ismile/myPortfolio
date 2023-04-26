@@ -21,7 +21,7 @@ import'./Portfolio.css'
             image:"./assets/NetFlix.jpg",
             title:'NetFlix Clone',
             github:"https://github.com/coder-ismile/NetflixClone",
-            demo:" https://netflixclone-app-b1611.web.app"
+            demo:" https://netflixapp-clone-91ef1.web.app"
           },
           {
             id:4,
@@ -46,7 +46,7 @@ import'./Portfolio.css'
           },
           {
             id:7,
-            image:"./assets/codepen.png",
+            image:"./assets/codepen_logo.png",
             title:'CodePen Clone',
             github:"https://github.com/coder-ismile/codePen_clone",
             demo:"https://coder-ismile.github.io/codePen_clone/"
