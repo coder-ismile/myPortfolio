@@ -46,7 +46,7 @@ import'./Portfolio.css'
           },
           {
             id:7,
-            image:"./assets/codePenLogo.webp",
+            image:"./assets/codepen.png",
             title:'CodePen Clone',
             github:"https://github.com/coder-ismile/codePen_clone",
             demo:"https://coder-ismile.github.io/codePen_clone/"
